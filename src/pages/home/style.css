@@ -1,0 +1,23 @@
+img {
+    width: 100%;
+}
+
+h3 {
+    color: red;
+    margin: auto;
+    text-align: center;
+    padding: 5px 0;
+}
+
+h2 {
+    color: white;
+}
+
+a {
+    color: orange;
+    text-decoration: none;
+}
+
+header a {
+    margin: 0 10px;
+}
